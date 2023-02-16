@@ -6,3 +6,5 @@
 - [0x03-React-components:](https://github.com/Beinglegendary/alx-react/tree/main/0x03-React_component)
 - [0x03-React_inline_styling:](https://github.com/Beinglegendary/alx-react/tree/main/0x04-React_inline_styling)
 - [0x03-React_State:](https://github.com/Beinglegendary/alx-react/tree/main/0x05-react_state)
+- [0x03-React_State:](https://github.com/Beinglegendary/alx-react/tree/main/0x06-React_Immutable)
+
