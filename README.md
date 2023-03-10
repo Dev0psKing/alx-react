@@ -9,4 +9,4 @@
 - [0x06-React_Immutable:](https://github.com/Beinglegendary/alx-react/tree/main/0x06-React_Immutable)
 - [0x07-react_redux_action_creator_normalizr:](https://github.com/Beinglegendary/alx-react/tree/main/0x07-react_redux_action_creator_normalizr)
 
-https://github.com/Beinglegendary/alx-react/tree/main/0x07-react_redux_action_creator_normalizr
+
